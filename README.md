@@ -4,7 +4,7 @@
 * [プレビュー用に空の SwiftUI プロジェクトを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/9)
 * [公式ドキュメントの不足を SwiftOnTap で補う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/10)
 * [新規 View / Modifier を作成する際はスニペットを利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/11)
-* View.body のコンパイルエラーが解消できない場合、小さな関数に移動して試す
+* [body 関数のコンパイルエラーの内容が理解できない場合、小さな関数に移動して試す。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/13)
 * 複雑な View 作成時はコードの折りたたみ機能を活用する
 
 ## コーディングスタイル
