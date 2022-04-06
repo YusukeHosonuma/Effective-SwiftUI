@@ -8,8 +8,8 @@
 * 複雑な View 作成時はコードの折りたたみ機能を活用する
 
 ## コーディングスタイル
+* [サブビューを生成する処理は Computed-property よりメソッドを好む。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/8)
 * NavigationView は常に利用する側の View で指定する
-* サブビューを生成する処理は、Computed-property よりもメソッドを好む
 * Button の action を関数名で指定しない
 * View の構造を把握しやすいような目立つコメントを記述する
 
