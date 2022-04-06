@@ -21,7 +21,7 @@
 * ViewModel で非同期通信が必要な場合、MainActorで宣言する
 
 ## トレードオフ
-* 単純な View に対してのみ Preview を実装する。
+* [単純な View に対してのみ Preview を実装することを検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/18)
 * [SFSafeSymbols が本当に必要かよく検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/12)
 
 ## マルチプラットフォーム
