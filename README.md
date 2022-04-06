@@ -8,7 +8,7 @@
 
 ## ドキュメント
 * [公式ドキュメントの不足を SwiftOnTap で補う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/10)
-* [Apple の公式ドキュメントを参照したい場合は、頭に”Apple SwiftUI”をつける。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/19)
+* [Apple の公式ドキュメントを参照したい場合は、頭に”Apple SwiftUI”をつけて検索する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/19)
 
 ## コーディングスタイル
 * [サブビューを生成する処理は Computed-property よりメソッドを好む。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/8)
