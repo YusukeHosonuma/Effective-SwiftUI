@@ -25,9 +25,9 @@
 * [SFSafeSymbols が本当に必要かよく検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/12)
 * [プラットフォームごとに View を分ける必要があるかよく検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/15)
 
-## テクニック集
+## テクニック・アイディア集
 * [可読性のための Modifier を導入する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/6)
-* .tagを enum で指定する場合、型付けされた専用のメソッドを用意する
+* [.tag() を enum などで指定する場合、型付けされた専用のメソッドを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/16)
 * 必要な場合は型変換用の`Binding`を用意する
 * 初期化のために一度だけ実行する処理は`lazy var`で行う
 
