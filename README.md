@@ -2,7 +2,7 @@
 
 ## 効率的な実装
 * [プレビュー用に空の SwiftUI プロジェクトを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/9)
-* 公式ドキュメントより SwiftOnTap を先に参照する
+* [公式ドキュメントの不足を SwiftOnTap で補う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/10)
 * View.body のコンパイルエラーが解消できない場合、小さな関数に移動して試す
 * View を作る際は view スニペットを利用する
 * 複雑な View 作成時はコードの折りたたみ機能を活用する
