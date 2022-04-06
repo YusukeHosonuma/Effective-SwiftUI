@@ -23,7 +23,10 @@
 ## トレードオフ
 * 単純な View に対してのみ Preview を実装する。
 * [SFSafeSymbols が本当に必要かよく検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/12)
+
+## マルチプラットフォーム
 * [プラットフォームごとに View を分ける必要があるかよく検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/15)
+* [typealias でプラットフォーム間の名前の差異を吸収する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/17)
 
 ## テクニック・アイディア集
 * [可読性のための Modifier を導入する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/6)
