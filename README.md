@@ -1,4 +1,4 @@
-# Effective-SwiftUI 候補（仮説）
+# Effective SwiftUI 候補（仮説）
 
 ## 効率的な実装
 * [プレビュー用に空の SwiftUI プロジェクトを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/9)
