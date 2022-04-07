@@ -12,8 +12,8 @@
 
 ## コーディングスタイル
 * [サブビューを生成する処理は Computed-property よりメソッドを好む。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/8)
+* [Button における `action` の指定方法について検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/20)
 * NavigationView は常に利用する側の View で指定する
-* Button の action を関数名で指定しない
 * View の構造を把握しやすいような目立つコメントを記述する
 
 ## API を理解して使用する
