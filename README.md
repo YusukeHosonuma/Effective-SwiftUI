@@ -35,7 +35,7 @@
 * 必要な場合は型変換用の`Binding`を用意する
 * 初期化のために一度だけ実行する処理は`lazy var`で行う
 
-## 未成熟なアイディア
+## 未成熟な仮説
 * [ViewModel で非同期通信が必要な場合、`@MainActor`で宣言する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/21)
 * [NavigationView は常に利用する側の View で指定する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/22)
 
