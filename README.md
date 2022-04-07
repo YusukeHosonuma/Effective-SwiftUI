@@ -21,7 +21,6 @@
 * [UIViewRepresentable のプロトコル要件を正しく理解して使う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/5)
 * [シートを実装する際は isPresented と dismiss を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/14)
 * ObservedObject への DI をonAppearやtaskなどで決して行わない
-* ViewModel で非同期通信が必要な場合、MainActorで宣言する
 
 ## トレードオフ
 * [単純な View に対してのみ Preview を実装することを検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/18)
@@ -36,6 +35,9 @@
 * [.tag() を enum などで指定する場合、型付けされた専用のメソッドを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/16)
 * 必要な場合は型変換用の`Binding`を用意する
 * 初期化のために一度だけ実行する処理は`lazy var`で行う
+
+## 未成熟なアイディア
+* [ViewModel で非同期通信が必要な場合、`@MainActor`で宣言する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/21)
 
 ## ネタ枠
 * SwiftUI を過信しないこと。
