@@ -38,6 +38,7 @@
 
 ## 未成熟なアイディア
 * [ViewModel で非同期通信が必要な場合、`@MainActor`で宣言する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/21)
+* [NavigationView は常に利用する側の View で指定する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/22)
 
 ## ネタ枠
 * SwiftUI を過信しないこと。
