@@ -16,6 +16,7 @@
 * [View の構造を把握しやすくするために目立つコメントを記述する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/25)
 
 ## API を理解して使用する
+* [離れた View にデータを渡す際には `@Environment` や `@EnvironmentObject` の利用を検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/28)
 * [本当に必要な場合を除き AnyView を避ける。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/7)
 * [UIViewRepresentable のプロトコル要件を正しく理解して使う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/5)
 * [シートを実装する際は isPresented と dismiss を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/14)
