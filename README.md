@@ -33,13 +33,13 @@
 * [可読性のための Modifier を導入する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/6)
 * [.tag() を enum などで指定する場合、型付けされた専用のメソッドを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/16)
 * [必要な場合は `Binding<T>` を `Binding<T?>` に変換する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/27)
-* 初期化のために一度だけ実行する処理は`lazy var`で行う
 * [View の更新トリガーを調べるために `_printChanges()` を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/24)
 
 ## 未成熟な仮説
 * [ViewModel で非同期通信が必要な場合、`@MainActor`で宣言する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/21)
 * [NavigationView は常に利用する側の View で指定する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/22)
 * [`@ObservedObject` への DI を `onAppear` で決して行わない。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/26)
+* [初期化のために一度だけ実行する処理は`lazy var`で行う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/3)
 
 ## ネタ枠
 * SwiftUI を過信しないこと。
