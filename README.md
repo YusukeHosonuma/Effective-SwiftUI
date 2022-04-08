@@ -35,6 +35,7 @@
 * [.tag() を enum などで指定する場合、型付けされた専用のメソッドを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/16)
 * 必要な場合は型変換用の`Binding`を用意する
 * 初期化のために一度だけ実行する処理は`lazy var`で行う
+* [View の更新トリガーを調べるために `Self._printChanges()` を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/24)
 
 ## 未成熟な仮説
 * [ViewModel で非同期通信が必要な場合、`@MainActor`で宣言する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/21)
