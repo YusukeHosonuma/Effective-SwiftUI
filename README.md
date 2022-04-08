@@ -55,10 +55,11 @@
 Q. なんだか文体が偉そう...<br>
 A. Effective本を意識して書き始めたら、このような文体になってしまいました...合わない方には申し訳ないです。
 
-Q. 書籍化するの？<br>
-A. 検討中です。ただ有料の書籍として販売した場合も、ここをクローズする予定はありません。
+Q. 書籍化する予定は？<br>
+A. 検討中です。ただ有料の書籍として販売した場合も、ここをクローズするつもりはありません。
 
 Q. あなたは SwiftUI で何を作ったの？<br>
+A. <br>
 - Multi-platform アプリとしては：
   - [Swift-Evolution-Browser](https://github.com/YusukeHosonuma/Swift-Evolution-Browser)
   - [E2DC](https://github.com/YusukeHosonuma/E2DC)
