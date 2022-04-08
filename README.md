@@ -41,6 +41,3 @@
 * [NavigationView は常に利用する側の View で指定する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/22)
 * [`@ObservedObject` への DI を `onAppear` で決して行わない。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/26)
 * [初期化のために一度だけ実行する処理は`lazy var`で行う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/3)
-
-## ネタ枠
-* SwiftUI を過信しないこと。
