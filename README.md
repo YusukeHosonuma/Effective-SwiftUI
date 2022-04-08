@@ -13,7 +13,7 @@
 ## コーディングスタイル
 * [サブビューを生成する処理は Computed-property よりメソッドを好む。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/8)
 * [Button における `action` の指定方法について検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/20)
-* View の構造を把握しやすいような目立つコメントを記述する
+* [View の構造を把握しやすくするために目立つコメントを記述する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/25)
 
 ## API を理解して使用する
 * [本当に必要な場合を除き AnyView を避ける。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/7)
