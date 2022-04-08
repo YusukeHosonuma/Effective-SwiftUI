@@ -1,5 +1,13 @@
 # Effective SwiftUI 候補（仮説）
 
+私が SwiftUI で開発する際に**効果的（Effective）だと感じたプラクティス**をまとめたものです。
+
+元々、Twitter や Zenn のスクラップで書いていたのですが、よりオープンにディスカッションできればと思い、GitHubディスカッションに移行しました（全面的に1からリライトしています）。
+
+どなたもお気軽にリアクション・コメントなどをいただければと思います🙏
+
+初めての方は、本ページ下部にある短い [FAQ](#FAQ) にだけ目を通して頂けると幸いです。
+
 ## 効率的な実装
 * [プレビュー用に空の SwiftUI プロジェクトを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/9)
 * [新規 View / Modifier を作成する際はスニペットを利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/11)
@@ -36,8 +44,28 @@
 * [必要な場合は `Binding<T>` を `Binding<T?>` に変換する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/27)
 * [View の更新トリガーを調べるために `_printChanges()` を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/24)
 
-## 未成熟な仮説
+## 未成熟な仮説（私の中で答えが出ていないもの）
 * [ViewModel で非同期通信が必要な場合、`@MainActor`で宣言する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/21)
 * [NavigationView は常に利用する側の View で指定する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/22)
 * [`@ObservedObject` への DI を `onAppear` で決して行わない。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/26)
 * [初期化のために一度だけ実行する処理は`lazy var`で行う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/3)
+
+## FAQ
+
+Q. なんだか文体が偉そう...<br>
+A. Effective本を意識して書き始めたら、このような文体になってしまいました...合わない方には申し訳ないです。
+
+Q. ダウンボート（👎）してもよい？<br>
+A. はい。ただ、そう考える理由をコメント頂けると、私を含めた多くの人に役立ちます。
+
+Q. 書籍化するの？<br>
+A. 検討中です。ただ有料の書籍として販売した場合も、ここをクローズする予定はありません。
+
+Q. あなたは SwiftUI で何を作ったの？<br>
+- Multi-platform アプリとしては：
+  - [Swift-Evolution-Browser](https://github.com/YusukeHosonuma/Swift-Evolution-Browser)
+  - [E2DC](https://github.com/YusukeHosonuma/E2DC)
+  - [SwiftUI-LifeGame（古いですが）](https://github.com/YusukeHosonuma/SwiftUI-LifeGame)
+- ライブラリとしては：
+  - [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols)
+  - [SwiftUICommon](https://github.com/YusukeHosonuma/SwiftUICommon)
