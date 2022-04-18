@@ -29,6 +29,7 @@
 * [UIViewRepresentable のプロトコル要件を正しく理解して使う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/5)
 * [シートを実装する際は isPresented と dismiss を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/14)
 * [AppStorage で不足な場合は Defaults の利用を検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/23)
+* [標準以外の方法でローカライズを処理する際のデメリットを理解する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/29)
 
 ## トレードオフ
 * [単純な View に対してのみ Preview を実装することを検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/18)
@@ -68,5 +69,6 @@ A. <br>
   - [E2DC](https://github.com/YusukeHosonuma/E2DC)
   - [SwiftUI-LifeGame（古いですが）](https://github.com/YusukeHosonuma/SwiftUI-LifeGame)
 - ライブラリとしては：
+  - [SwiftUI-Simulator](https://github.com/YusukeHosonuma/SwiftUI-Simulator)
   - [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols)
   - [SwiftUICommon](https://github.com/YusukeHosonuma/SwiftUICommon)
