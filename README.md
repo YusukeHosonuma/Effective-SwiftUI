@@ -30,6 +30,7 @@
 * [シートを実装する際は isPresented と dismiss を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/14)
 * [AppStorage で不足な場合は Defaults の利用を検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/23)
 * [標準以外の方法でローカライズを処理する際のデメリットを理解する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/29)
+* [View を拡張したい場合は原則として extension を使用し、状態保持が必要な場合のみ `ViewModifier` を実装する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/31)
 
 ## トレードオフ
 * [単純な View に対してのみ Preview を実装することを検討する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/18)
