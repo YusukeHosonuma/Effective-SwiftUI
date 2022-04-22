@@ -45,6 +45,7 @@
 * [.tag() を enum などで指定する場合、型付けされた専用のメソッドを用意する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/16)
 * [必要な場合は `Binding<T>` を `Binding<T?>` に変換する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/27)
 * [View の更新トリガーを調べるために `_printChanges()` を利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/24)
+* [上位互換 API を自前で実装し、OSアップデート時のコストを低減する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/33)
 
 ## 未成熟な仮説（私の中で答えが出ていないもの）
 * [ViewModel で非同期通信が必要な場合、`@MainActor`で宣言する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/21)
