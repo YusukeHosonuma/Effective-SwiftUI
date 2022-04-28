@@ -13,6 +13,7 @@
 * [新規 View / Modifier を作成する際はスニペットを利用する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/11)
 * [body 関数のコンパイルエラーの内容が理解できない場合、小さな関数に移動して試す。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/13)
 * [複雑な View を作成する時は「コードの折りたたみ」機能を活用する](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/2)
+* [コード補完を活用し、クロージャを素早く記述する。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/37)
 
 ## ドキュメント
 * [公式ドキュメントの不足を SwiftOnTap で補う。](https://github.com/YusukeHosonuma/Effective-SwiftUI/discussions/10)
