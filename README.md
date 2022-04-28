@@ -75,3 +75,7 @@ A. <br>
   - [SwiftUI-Simulator](https://github.com/YusukeHosonuma/SwiftUI-Simulator)
   - [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols)
   - [SwiftUICommon](https://github.com/YusukeHosonuma/SwiftUICommon)
+
+## Author
+
+Yusuke Hosonuma / [@tobi462](https://twitter.com/tobi462)
